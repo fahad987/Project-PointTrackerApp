@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "1092597067789",
+    "firebase_url": "https://fir-app-f22ac.firebaseio.com",
+    "project_id": "fir-app-f22ac",
+    "storage_bucket": "fir-app-f22ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092597067789:android:4cc74c9a3655b0bc",
+        "android_client_info": {
+          "package_name": "com.example.fadiabrehman.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092597067789-pffko40h86vg4io7ciq47ju9h9ogs0h7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fadiabrehman.project",
+            "certificate_hash": "6dcf0b4abd748e2c4088d5ad7b2329661de35262"
+          }
+        },
+        {
+          "client_id": "1092597067789-4l1majitjl68u644re34dsv4a73qmee1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwi07WtdOv5Lk9na7TL5z_BM-fqiagWQs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092597067789-4l1majitjl68u644re34dsv4a73qmee1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092597067789:android:32c954df5735eb16",
+        "android_client_info": {
+          "package_name": "com.example.fahad.m"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092597067789-4l1majitjl68u644re34dsv4a73qmee1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwi07WtdOv5Lk9na7TL5z_BM-fqiagWQs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
